@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(/image/cart.jpg);
+    font-family: sans-serif;
+}
+
+.top-nav-bar {
+    height: 57px;
+    top: 0;
+    position: sticky;
+    background: #fff;
+    margin-bottom: 20px;
+    border-bottom: 3px solid goldenrod;
+    z-index: 2;
+}
